@@ -4,13 +4,18 @@
 ## I'm a Self Taught, Software Engineer, Developer!!
 
 - 🌱 I’m currently Reverse Engineering Ninja Gaiden Black On Original Xbox 🤣
+- 🌱 I’m currently working on a piece of hardware and software toolchain for Reverse Engineering Simplified
 - 🥅 2021 Goals: Finish Some Projects
 - ⚡ Fun fact: My work ethic is insane!
+- ⚡ Wow fact: I do complete my work overtime!
 
 
-### Current Active Project:
+### Current Active Projects:
 
 ![51N0J3M6GBL](https://user-images.githubusercontent.com/87882906/127957301-5597f6b7-9fbe-4fcc-9b0d-29aa902e8624.jpg)
+
+![1_HClbbUTEEzekU31ae3ZGnA](https://user-images.githubusercontent.com/87882906/129735461-4b517381-c94c-46dd-9102-2bd2b1ba2e85.png)
+
 
 ### Connect with me:
 
