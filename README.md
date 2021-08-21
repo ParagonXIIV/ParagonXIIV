@@ -47,3 +47,4 @@
 ---
 
 [youtube]: https://www.youtube.com/channel/UCLhV_hTt-Eg-JW3-yRDSn1g
+My youtube channel was terminated due to false reporting trying to work with youtube to get it back online.
