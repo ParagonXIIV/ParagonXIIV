@@ -6,6 +6,8 @@
 - ⚡ Fun fact: My work ethic is insane!
 - ⚡ Wow fact: I do complete my work overtime!
 
+- ⚡ Active Projects: https://github.com/ParagonXIIV/NGBMOD
+
 <br />
 
 
