@@ -8,7 +8,7 @@
 
 - ⚡ Active Projects: https://github.com/ParagonXIIV/NGBMOD
 
-<a href="#"><img width="100%" height="auto" src="https://ibb.co/gFJzWLR.png" height="175px"/></a>
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://i.ibb.co/XktS5rC/Untitled.png" />][webdevplaylist]
 
 <br />
 
