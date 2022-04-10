@@ -8,16 +8,10 @@
 
 - ⚡ Active Projects: https://github.com/ParagonXIIV/DECOMP__Ninja
 
-<img align="left" alt="Visual Studio Code" width="800px" height="600px" src="https://i.ibb.co/M1vxSDd/249121.png" />
+![image](https://i.ibb.co/M1vxSDd/249121.png)
 
-<img align="left" alt="Visual Studio Code" width="800px" height="600px" src="https://i.ibb.co/tDmH4hB/Ninja.png" />
+![image](https://i.ibb.co/tDmH4hB/Ninja.png)
 
-<img align="left" alt="Visual Studio Code" width="800px" height="600px" src="https://i.ibb.co/MMffZNV/Xbox-Ninja-Gaiden-Black-for-North-American-press.jpg" />
+![image](https://i.ibb.co/MMffZNV/Xbox-Ninja-Gaiden-Black-for-North-American-press.jpg)
 
-<img align="left" alt="Visual Studio Code" width="800px" height="600px" src="https://i.ibb.co/NrvY2zF/Ninja-Gaiden-II-2008-03-20-Disc.jpg" />
-
-<br />
-
-
-<br />
-<br />
+![image](https://i.ibb.co/NrvY2zF/Ninja-Gaiden-II-2008-03-20-Disc.jpg)
