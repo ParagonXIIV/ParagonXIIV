@@ -14,7 +14,7 @@
 
 #Prototype:
 
-![image](https://i.ibb.co/MMffZNV/Xbox-Ninja-Gaiden-Black-for-North-American-press.jpg)
+![image](https://i.ibb.co/T2XGFxC/Xbox.png)
 
 #Prototype:
 
