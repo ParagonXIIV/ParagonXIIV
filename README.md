@@ -12,6 +12,10 @@
 
 ![image](https://i.ibb.co/tDmH4hB/Ninja.png)
 
+#Prototype:
+
 ![image](https://i.ibb.co/MMffZNV/Xbox-Ninja-Gaiden-Black-for-North-American-press.jpg)
+
+#Prototype:
 
 ![image](https://i.ibb.co/NrvY2zF/Ninja-Gaiden-II-2008-03-20-Disc.jpg)
