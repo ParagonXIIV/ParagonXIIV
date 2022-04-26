@@ -7,6 +7,8 @@
 - ⚡ Wow fact: I do complete my work overtime!
 
 - ⚡ Active Projects: https://github.com/ParagonXIIV/DECOMP__Ninja
+- ⚡ Active Projects: https://github.com/ParagonXIIV/GodOfWarPS2_Decomp
+- ⚡ Active Projects: https://github.com/ParagonXIIV/GodOfWar2_Decomp
 
 ![image](https://i.ibb.co/M1vxSDd/249121.png)
 
