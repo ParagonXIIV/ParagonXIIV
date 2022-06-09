@@ -1,7 +1,7 @@
 ### Hi there, I'm Mark - aka [ParagonXIIV] 👋
 
-Update: I am having health issues and IRL work is overwhelming at the current moment
-I I will get back to coding as soon as my life gets a balance.
+Update: I am having health issues and IRL work is overwhelming at the current moment.
+I will get back to coding as soon as my life gets a balance.
 I Got a lot of code I want to get done and push on these projects.
 
 
