@@ -13,6 +13,9 @@ I Got a lot of code I want to get done and push on these projects.
 - ⚡ Active Projects: https://github.com/ParagonXIIV/DECOMP__Ninja
 - ⚡ Active Projects: https://github.com/ParagonXIIV/GodOfWarPS2_Decomp
 - ⚡ Active Projects: https://github.com/ParagonXIIV/GodOfWar2_Decomp
+- ⚡ Active Projects: https://github.com/ParagonXIIV/FEAR-RTX
+
+![image](https://i.ibb.co/bKmh3Jf/FEARRTX.jpg)
 
 ![image](https://i.ibb.co/M1vxSDd/249121.png)
 
