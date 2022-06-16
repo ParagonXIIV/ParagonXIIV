@@ -27,11 +27,3 @@ I Got a lot of code I want to get done and push on these projects.
 ![image](https://i.ibb.co/M1vxSDd/249121.png)
 
 ![image](https://i.ibb.co/tDmH4hB/Ninja.png)
-
-#Prototype:
-
-![image](https://i.ibb.co/T2XGFxC/Xbox.png)
-
-#Prototype:
-
-![image](https://i.ibb.co/NrvY2zF/Ninja-Gaiden-II-2008-03-20-Disc.jpg)
