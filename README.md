@@ -12,6 +12,8 @@ I Got a lot of code I want to get done and push on these projects.
 
 - ⚡ Active Projects: https://github.com/ParagonXIIV/DECOMP__Ninja  
 - I release small code section for this Project Starting Every "Monday"
+- ⚡ Active Projects: https://github.com/ParagonXIIV/Ninja-Gaiden-4
+- I release small code section for this Project Starting Every "TBD"
 - ⚡ Active Projects: https://github.com/ParagonXIIV/GodOfWarPS2_Decomp 
 - I release small code section for this Project Starting Every "Wednesday"
 - ⚡ Active Projects: https://github.com/ParagonXIIV/GodOfWar2_Decomp 
@@ -21,6 +23,8 @@ I Got a lot of code I want to get done and push on these projects.
 
 - ⚡ I stream Every Weekend on Saturday for time to relax: 
 - So no code pushes on Tuesdays , Thursdays , Saturdays
+
+![image](https://i.ibb.co/nbCbc0B/x360-ninja-gaiden-ii-110214.png)
 
 ![image](https://i.ibb.co/bKmh3Jf/FEARRTX.jpg)
 
