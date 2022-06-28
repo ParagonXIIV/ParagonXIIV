@@ -26,8 +26,6 @@ I Got a lot of code I want to get done and push on these projects.
 
 ![image](https://i.ibb.co/nbCbc0B/x360-ninja-gaiden-ii-110214.png)
 
-![image](https://i.ibb.co/bKmh3Jf/FEARRTX.jpg)
-
 ![image](https://i.ibb.co/M1vxSDd/249121.png)
 
 ![image](https://i.ibb.co/tDmH4hB/Ninja.png)
