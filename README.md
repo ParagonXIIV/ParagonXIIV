@@ -6,4 +6,7 @@ I am a Programmer and a awesome dude.
     Projects are:
     
 Ninja Gaiden Black Decomp
+
+    Projects are:
+
 Ninja Gaiden 2 Decomp
