@@ -3,14 +3,12 @@
 I am a Programmer and a awesome dude.
 3 projects at the current moment active.
 
-    Projects are:
-    
 Ninja Gaiden Black Decomp
 
-    Projects are:
+    Projects is: -- TBD Not Active Warning Received
 
 Ninja Gaiden 2 Decomp
-
-    Projects are:
     
-OGXbox-OperatingSYS    
+
+    Projects are: -- TBD Not Active Warning Received
+
