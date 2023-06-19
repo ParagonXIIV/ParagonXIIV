@@ -5,10 +5,10 @@ I am a Programmer and a awesome dude.
 
 Ninja Gaiden Black Decomp
 
-    Projects is: -- TBD Not Active Warning Received
+    Projects is: -- TBD Not Active
 
 Ninja Gaiden 2 Decomp
     
 
-    Projects are: -- TBD Not Active Warning Received
+    Projects are: -- TBD Not Active
 
