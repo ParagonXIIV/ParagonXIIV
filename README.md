@@ -1,7 +1,7 @@
 ### Hi there, I'm Mark - aka [ParagonXIIV] 👋
 
 I am a Programmer and a awesome dude.
-0 projects at the current moment active.
+1 projects at the current moment active.
 
 Ninja Gaiden Black Decomp 
 
