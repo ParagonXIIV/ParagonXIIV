@@ -3,12 +3,11 @@
 I am a Programmer and a awesome dude.
 0 projects at the current moment active.
 
-Ninja Gaiden Black Decomp
+Ninja Gaiden Black Decomp 
 
-    Projects is: -- TBD Not Active
+[Active Ninja Gaiden Black](https://github.com/ParagonXIIV/NinjaEngine/tree/main)
 
 Ninja Gaiden 2 Decomp
-    
-
-    Projects are: -- TBD Not Active
+      
+    Project NG2 IS: -- TBD
 
